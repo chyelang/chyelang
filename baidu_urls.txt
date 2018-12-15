@@ -1,2 +1,2 @@
-https://blog.chyelang.ml/2018/image_classification/
-https://blog.chyelang.ml/2018/language_model/
+https://blog.chyelang.ml/image_classification/
+https://blog.chyelang.ml/language_model/
